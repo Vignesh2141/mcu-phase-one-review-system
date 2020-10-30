@@ -1,0 +1,236 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #060505;
+  color: #F7F6F6;
+}
+
+h1{
+  text-align: center;
+}
+
+#phase{
+  text-align: center;
+}
+
+#top{
+  border-bottom: 2px solid white;
+}
+
+#iron1 img{
+  position: relative;
+  height: 250px;
+  width:300px;
+  top:20px;
+  left: 10px;
+    transition: 1s;
+}
+#iron1 img:hover{
+  height: 350px;
+  width:400px;
+}
+.text{
+  position: relative;
+  text-align: center;
+  bottom: 100px;
+
+}
+#border1{
+border-bottom: 2px solid white;
+}
+
+#hulk img{
+  position: relative;
+  height: 250px;
+  width:300px;
+  top:20px;
+  left: 10px;
+      transition: 1s;
+}
+#hulk img:hover{
+  height: 350px;
+  width:400px;
+}
+
+#hulk  h3{
+  position: relative;
+  text-align: center;
+  bottom: 100px;
+
+}
+#avenger img{
+ position: relative;
+ height: 250px;
+ width:300px;
+ top:20px;
+ left: 10px;
+   transition: 1s;
+}
+#avenger img:hover{
+  height: 350px;
+  width:400px;
+}
+
+#avenger h3{
+  position: relative;
+  text-align: center;
+  bottom: 100px;
+
+}
+#border4{
+ border-bottom: 2px solid white;
+}
+
+#border2{
+ border-bottom: 2px solid white;
+}
+#iron2 img{
+  position: relative;
+  height: 250px;
+  width:300px;
+  top:20px;
+  left: 10px;
+  transition: 1s;
+}
+#iron2 img:hover{
+  height: 350px;
+  width:400px;
+}
+#iron2 h3{
+  position: relative;
+  text-align: center;
+  bottom: 100px;
+
+}
+#border3{
+ border-bottom: 2px solid white;
+}
+
+#thor img{
+  position: relative;
+  height: 250px;
+  width:300px;
+  top:20px;
+  left: 10px;
+  transition: 1s;
+}
+#thor img:hover{
+  height: 350px;
+  width:400px;
+}
+#thor h3{
+  position: relative;
+  text-align: center;
+  bottom: 100px;
+
+}
+
+#cap img{
+  position: relative;
+  height: 250px;
+  width:300px;
+  top:20px;
+  left: 10px;
+    transition: 1s;
+    transition: ease-in;
+}
+#cap img:hover{
+  height: 350px;
+  width:400px;
+}
+#cap h3{
+  position: relative;
+  text-align: center;
+  bottom: 100px;
+
+}
+
+#pic1 img{
+  position: relative;
+  height:500px;
+  width: 1000px;
+  left: 250px;
+}
+strong{
+  color: red;
+}
+#hed{
+  text-align: center;
+  font-size: 20px;
+  font-style: bold;
+}
+#star{
+  position: relative;
+  background-color: white;
+  width: 150px;
+  height: 20px;
+  left: 10px;
+  color: red;
+}
+
+#box{
+  position: relative;
+  left:20px;
+  height: 200px;
+  width:500px;
+}
+#pic2 img{
+  position: relative;
+  height:500px;
+  width: 800px;
+  left: 300px;
+}
+
+#border5{
+   border-bottom: 2px solid white;
+}
+#pic3 img{
+  position: relative;
+  height:600px;
+  width: 500px;
+  left: 500px;
+}
+.container{
+  margin: 0;
+  padding: 0;
+}
+
+.footer-main-div{
+  width:100%;
+  height: auto;
+  margin: auto;
+  background: #272727;
+  padding: 20px 0px;
+}
+
+.footer-social-icons{
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+.footer-social-icons ul{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.footer-social-icons ul li{
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin: 0px 10px;
+  border-radius: 100%;
+
+}
+.footer-social-icons ul li a{
+  color: white;
+  font-size: 25px;
+}
+.copyright{
+  text-align: center;
+}
+
+img{
+
+}

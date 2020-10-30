@@ -1,0 +1,35 @@
+body{
+
+  margin: 0;
+  padding: 0;
+
+
+}
+
+#banner{
+  position: relative;
+  background-image: url(mcu/cover.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 95.5vh;
+
+}
+
+
+#form{
+position: relative;
+text-align: center;
+border: 2px solid red;
+background-image: url(mcu/marvel.jpg);
+background-color: red;
+box-sizing: inherit;
+width: 400px;
+left: 500px;
+top: 200px;
+background-repeat: no-repeat;
+background-position: center;
+}
+#reg{
+  color: white;
+}
