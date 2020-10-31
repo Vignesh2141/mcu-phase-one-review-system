@@ -21,8 +21,8 @@ body{
 position: relative;
 text-align: center;
 border: 2px solid red;
-background-image: url(mcu/marvel.jpg);
-background-color: red;
+background: black;
+
 box-sizing: inherit;
 width: 400px;
 left: 500px;

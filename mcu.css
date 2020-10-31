@@ -22,7 +22,6 @@ h1{
   height: 250px;
   width:300px;
   top:20px;
-  left: 10px;
     transition: 1s;
 }
 #iron1 img:hover{
@@ -44,7 +43,7 @@ border-bottom: 2px solid white;
   height: 250px;
   width:300px;
   top:20px;
-  left: 10px;
+
       transition: 1s;
 }
 #hulk img:hover{
@@ -63,7 +62,7 @@ border-bottom: 2px solid white;
  height: 250px;
  width:300px;
  top:20px;
- left: 10px;
+
    transition: 1s;
 }
 #avenger img:hover{
@@ -89,7 +88,7 @@ border-bottom: 2px solid white;
   height: 250px;
   width:300px;
   top:20px;
-  left: 10px;
+
   transition: 1s;
 }
 #iron2 img:hover{
@@ -111,7 +110,7 @@ border-bottom: 2px solid white;
   height: 250px;
   width:300px;
   top:20px;
-  left: 10px;
+
   transition: 1s;
 }
 #thor img:hover{
@@ -130,7 +129,7 @@ border-bottom: 2px solid white;
   height: 250px;
   width:300px;
   top:20px;
-  left: 10px;
+
     transition: 1s;
     transition: ease-in;
 }
@@ -149,7 +148,7 @@ border-bottom: 2px solid white;
   position: relative;
   height:500px;
   width: 1000px;
-  left: 250px;
+
 }
 strong{
   color: red;
@@ -178,7 +177,7 @@ strong{
   position: relative;
   height:500px;
   width: 800px;
-  left: 300px;
+
 }
 
 #border5{
@@ -188,7 +187,7 @@ strong{
   position: relative;
   height:600px;
   width: 500px;
-  left: 500px;
+  
 }
 .container{
   margin: 0;
